@@ -10,7 +10,7 @@ The template for this README.md file was obtained [here](https://gist.github.com
 ## Authors
 
 **August Lidfeldt** - [augustlidfeldt](https://github.com/augustlidfeldt)
-**Ludwig Hedlund** - [Ludwig Hedlund](https://github.com/luuddan)
+**Ludwig Hedlund** - [luuddan](https://github.com/luuddan)
 
 ## Acknowledgments
 
