@@ -5,7 +5,7 @@ This is the alpha release of a tool for detecting lung tissue damage. The tool i
 
 
 ## Setup
-1. Download the [test data](https://github.com/augustlidfeldt) containing histology images from lungs tissue.
+1. Download the [test data](https://github.com/augustlidfeldt/EDAN70/blob/main/Alpha_Release/test) containing histology images from lungs tissue.
 
 2. Download the [model weights](https://github.com/augustlidfeldt/EDAN70/blob/main/Alpha_Release/alpha_weights.h5) and the [labels](https://github.com/augustlidfeldt/EDAN70/blob/main/Alpha_Release/test_newlabels.txt).
 
