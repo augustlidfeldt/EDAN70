@@ -15,7 +15,10 @@ This is the alpha release of a tool for detecting lung tissue damage. The tool i
 
 5. For testing prediction on a specfic image point out model path in the second cell and run cell.
 
-![File structure](https://github.com/augustlidfeldt/EDAN70/blob/master/filestructure.jpg?raw=true)
+
+
+
+![File structure](https://github.com/augustlidfeldt/EDAN70/blob/main/Alpha_Release/filestructure.jpg)
 
 ## Authors
 
