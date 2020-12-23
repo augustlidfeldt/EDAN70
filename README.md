@@ -3,6 +3,8 @@ Project in Computer Science - EDAN70
 
 This repository contains code and logbooks for a project in the course EDAN70 during the Fall semester of 2020, as a part of our master's in Software Intensive Systems at Lund University.
 
+The code for the final 3-class tissue damage classifier can be found under Tissue_damage_classifier_final_version.
+
 # References
 
 The template for this README.md file was obtained [here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
