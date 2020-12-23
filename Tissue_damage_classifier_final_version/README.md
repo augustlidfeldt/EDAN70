@@ -25,9 +25,6 @@ This is the final release of a tool for detecting lung tissue damage. The tool i
 
 An incomplete regression model is available a the bottom of the file. The steps to make it work are listed at the top of the last cell.
 
-
-![File structure](https://github.com/augustlidfeldt/EDAN70/blob/main/Alpha_Release/filestructure.jpg)
-
 ## Authors
 
 **August Lidfeldt** - [augustlidfeldt](https://github.com/augustlidfeldt)
